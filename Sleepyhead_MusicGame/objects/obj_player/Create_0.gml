@@ -1,2 +1,4 @@
-move_speed = 1;
-tile_map = layer_tilemap_get_id("Tiles_Col");
+window_set_size(1280, 720);
+
+xSpeed = 0;
+ySpeed = 0;
