@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Player",
+  "%Name":"obj_ground",
   "eventList":[],
   "managed":true,
-  "name":"Player",
+  "name":"obj_ground",
   "overriddenProperties":[],
   "parent":{
-    "name":"SleepyHead_MusicGame",
-    "path":"SleepyHead_MusicGame.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"spr_ground",
+    "path":"sprites/spr_ground/spr_ground.yy",
   },
   "spriteMaskId":null,
   "visible":true,
