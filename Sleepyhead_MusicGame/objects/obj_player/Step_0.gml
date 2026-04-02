@@ -6,6 +6,7 @@ if (place_meeting(x, y + 1, obj_ground))
 	if (keyboard_check(vk_space))
 	{
 		ySpeed = -2;
+		
 	}
 }
 
