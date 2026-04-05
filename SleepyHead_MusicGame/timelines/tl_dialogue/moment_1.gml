@@ -1,1 +1,1 @@
-scr_dialogueText("text here");
+scr_dialogueText("Everything is going to the beat");
