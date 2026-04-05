@@ -5,6 +5,13 @@ time_source = time_source_create(time_source_game, 8, time_source_units_seconds,
 
 time_source_start(time_source);
 
+begin_dialogue = time_source_create(time_source_game, 3, time_source_units_seconds, function()
+{
+	instance_activate_object(obj_textBox);
+}, []);
+
+time_source_start(begin_dialogue);
+
 
 //TESTING FOR DIALOGUE CHANGE AUTO
 //time_dialogue_source = time_source_create(time_source_game, 3, time_source_units_seconds, function()
