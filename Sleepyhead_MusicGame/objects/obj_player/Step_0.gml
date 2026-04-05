@@ -1,5 +1,6 @@
 ySpeed += 0.1;
 
+
 if (place_meeting(x, y + 1, obj_ground))
 {
 	ySpeed = 0;
