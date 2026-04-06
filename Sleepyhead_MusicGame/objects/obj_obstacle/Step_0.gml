@@ -1,4 +1,4 @@
-xSpeed = -2.5;
+xSpeed = -4;
 ySpeed = 0;
 
 
