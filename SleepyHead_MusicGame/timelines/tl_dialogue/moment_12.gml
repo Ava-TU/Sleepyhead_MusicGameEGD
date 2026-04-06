@@ -1,9 +1,9 @@
 scr_dialogueText("");
-text_speed = 0.5; //I CAN EDIT THE SPEED INDIVIDUALLY YES
+text_speed = 0.3; //I CAN EDIT THE SPEED INDIVIDUALLY YES
 
 //this makes the dialogue change automatically
 //edit the number in line below to adjust the length the text stays
-time_dialogue_source = time_source_create(time_source_game, 1.4, time_source_units_seconds, function()
+time_dialogue_source = time_source_create(time_source_game, 0.57, time_source_units_seconds, function()
 	{
 		timeline_position++;
 

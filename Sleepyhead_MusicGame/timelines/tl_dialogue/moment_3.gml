@@ -3,7 +3,7 @@ text_speed = 0.5; //I CAN EDIT THE SPEED INDIVIDUALLY YES
 
 //this makes the dialogue change automatically
 //edit the number in line below to adjust the length the text stays
-time_dialogue_source = time_source_create(time_source_game, 35.5, time_source_units_seconds, function()
+time_dialogue_source = time_source_create(time_source_game, 35.7, time_source_units_seconds, function()
 	{
 		timeline_position++;
 

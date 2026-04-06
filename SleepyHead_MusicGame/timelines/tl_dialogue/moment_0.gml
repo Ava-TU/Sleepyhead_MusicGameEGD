@@ -3,7 +3,7 @@ scr_dialogueText("And Everything is going to the beat");
 
 //this makes the dialogue change automatically
 //edit the number in line below to adjust the length the text stays
-time_dialogue_source = time_source_create(time_source_game, 2, time_source_units_seconds, function()
+time_dialogue_source = time_source_create(time_source_game, 1.8, time_source_units_seconds, function()
 	{
 		timeline_position++;
 

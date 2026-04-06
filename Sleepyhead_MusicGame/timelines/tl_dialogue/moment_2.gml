@@ -1,5 +1,5 @@
-scr_dialogueText("And Everything is going to the");
-text_speed = 0.5; //I CAN EDIT THE SPEED INDIVIDUALLY YES
+scr_dialogueText("And Everything is going");
+text_speed = 0.45; //I CAN EDIT THE SPEED INDIVIDUALLY YES
 
 //this makes the dialogue change automatically
 //edit the number in line below to adjust the length the text stays

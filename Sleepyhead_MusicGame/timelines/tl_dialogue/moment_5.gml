@@ -1,5 +1,5 @@
 scr_dialogueText("it was like fire around the brim");
-text_speed = 0.5; //I CAN EDIT THE SPEED INDIVIDUALLY YES
+text_speed = 0.2; //I CAN EDIT THE SPEED INDIVIDUALLY YES
 
 //this makes the dialogue change automatically
 //edit the number in line below to adjust the length the text stays
