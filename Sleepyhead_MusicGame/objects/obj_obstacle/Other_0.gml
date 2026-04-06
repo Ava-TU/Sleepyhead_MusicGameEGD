@@ -1,3 +1,5 @@
 obj_player.playerScore += 1;
-instance_destroy(self);
+var kill = other.id;
+
+instance_destroy(kill);
 show_debug_message("obs gone");

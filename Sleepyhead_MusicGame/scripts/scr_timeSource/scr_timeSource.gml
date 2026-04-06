@@ -12,6 +12,10 @@ begin_dialogue = time_source_create(time_source_game, 3, time_source_units_secon
 
 time_source_start(begin_dialogue);
 
+begin_obs = time_source_create(time_source_game, 5, time_source_units_seconds, function()
+{
+	instance_activate_object(obj_obstacle);
+}, []);
 
 //TESTING FOR DIALOGUE CHANGE AUTO
 //time_dialogue_source = time_source_create(time_source_game, 3, time_source_units_seconds, function()
