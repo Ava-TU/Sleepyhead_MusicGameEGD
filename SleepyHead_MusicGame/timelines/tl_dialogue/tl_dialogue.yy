@@ -8,8 +8,8 @@
   ],
   "name":"tl_dialogue",
   "parent":{
-    "name":"Sleepyhead_MusicGame",
-    "path":"Sleepyhead_MusicGame.yyp",
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
   },
   "resourceType":"GMTimeline",
   "resourceVersion":"2.0",
