@@ -1,4 +1,4 @@
-obj_player.playerScore += 1;
+obj_player.playerScore += 100;
 var kill = other.id;
 
 instance_destroy(kill);
