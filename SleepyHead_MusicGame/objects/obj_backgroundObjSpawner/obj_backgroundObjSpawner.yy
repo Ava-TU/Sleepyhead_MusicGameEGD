@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_objectHit",
+  "%Name":"obj_backgroundObjSpawner",
   "eventList":[],
   "managed":true,
-  "name":"obj_objectHit",
+  "name":"obj_backgroundObjSpawner",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
