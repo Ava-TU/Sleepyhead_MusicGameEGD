@@ -1,4 +1,4 @@
-time_source = time_source_create(time_source_game, 8, time_source_units_seconds, function()
+time_source = time_source_create(time_source_game, 8.5, time_source_units_seconds, function()
 {
 	instance_activate_object(obj_player);
 	instance_activate_object(obj_scoreTXT);
@@ -6,14 +6,14 @@ time_source = time_source_create(time_source_game, 8, time_source_units_seconds,
 
 time_source_start(time_source);
 
-begin_dialogue = time_source_create(time_source_game, 3, time_source_units_seconds, function()
+begin_dialogue = time_source_create(time_source_game, 3.4, time_source_units_seconds, function()
 {
 	instance_activate_object(obj_textBox);
 }, []);
 
 time_source_start(begin_dialogue);
 
-begin_obs = time_source_create(time_source_game, 5, time_source_units_seconds, function()
+begin_obs = time_source_create(time_source_game, 5.3, time_source_units_seconds, function()
 {
 	instance_activate_object(obj_obstacle);
 }, []);

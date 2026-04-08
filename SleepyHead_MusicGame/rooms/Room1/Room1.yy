@@ -29,8 +29,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Sleepyhead_MusicGame",
-    "path":"Sleepyhead_MusicGame.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
