@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_scoreTXT",
+  "%Name":"obj_scoreTXT_End",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_scoreTXT",
+  "name":"obj_scoreTXT_End",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
